@@ -1,0 +1,3 @@
+[submodule "Cpp17-STL-Cookbook"]
+	path = Cpp17-STL-Cookbook
+	url = https://github.com/PacktPublishing/Cpp17-STL-Cookbook.git
